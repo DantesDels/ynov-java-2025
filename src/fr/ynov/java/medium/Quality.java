@@ -1,4 +1,4 @@
-package fr.ynov.java.java.medium;
+package fr.ynov.java.medium;
 
 public class Quality {
     private int id;

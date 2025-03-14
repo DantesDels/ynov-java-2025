@@ -1,4 +1,4 @@
-package fr.ynov.java.java.medium;
+package fr.ynov.java.medium;
 
 
 import java.io.BufferedReader;

@@ -1,4 +1,4 @@
-package fr.ynov.java.java.easy;
+package fr.ynov.java.easy;
 
 import java.util.Scanner;
 
